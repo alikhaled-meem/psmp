@@ -1,0 +1,32 @@
+.Chat {
+  overflow: auto;
+  height: 100%;
+}
+
+.msgContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.msg {
+  max-width: 80%;
+  margin: 10px 0;
+}
+
+.othersMsg {
+  color: var(--msg-txt-color);
+  margin-right: auto;
+}
+
+.myMsg {
+  padding: 15px 10px;
+  margin-left: auto;
+  background-color: var(--msg-bg-color);
+  color: white;
+  border-radius: 12px;
+  display: flex;
+  justify-content: end;
+  width: -moz-fit-content;
+  width: fit-content;
+}

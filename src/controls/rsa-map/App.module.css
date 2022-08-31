@@ -1,0 +1,27 @@
+.App {
+  border: 1px solid var(--unnamed-color-e5e5e5);
+  border-radius: 10px;
+  margin: 20px auto;
+  height: 95vh;
+  width: 95vw;
+  display: flex;
+}
+
+.tree {
+  width: 70%;
+  height: 100%;
+}
+
+.chat {
+  border-inline-start: 1px solid var(--unnamed-color-e5e5e5);
+  width: 30%;
+  height: 100%;
+}
+
+.padding20 {
+  padding: 20px;
+}
+
+.paddingInline20 {
+  padding-inline: 20px;
+}

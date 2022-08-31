@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --unnamed-color-a8d027: #a8d027;
+  --unnamed-color-ff0246: #ff0246;
+  --unnamed-color-ffcd02: #ffcd02;
+  --state1: #f7d1bc;
+  --state2: #f09381;
+  --state3: #e6e5e7;
+  --state4: #91d4f9;
+  --unnamed-color-b4b4b4: #b4b4b4;
+  --msg-bg-color: #2f354d;
+  --msg-txt-color: #32325d;
+  --unnamed-color-383838: #383838;
+  --unnamed-color-ff2800: #ff2800;
+  --unnamed-color-e5e5e5: #e5e5e5;
+  --unnamed-color-f3f4f6: #f3f4f6;
+}
+
+body {
+  font-family: "Roboto Mono", monospace;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
