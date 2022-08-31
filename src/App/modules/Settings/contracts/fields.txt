@@ -1,0 +1,17 @@
+[
+  {
+    id: "1",
+    enName: "Electrical",
+    arName: "كهرباء",
+  },
+  {
+    id: "2",
+    enName: "Mechanical",
+    arName: "مكيانيكا",
+  },
+  {
+    id: "3",
+    enName: "Chemistry",
+    arName: "كيمياء",
+  },
+];

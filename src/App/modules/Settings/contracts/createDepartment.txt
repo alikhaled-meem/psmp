@@ -1,0 +1,3 @@
+DepartmentName -> text EN,AR
+Description->text EN,AR
+IsActive ->Bool

@@ -1,0 +1,12 @@
+Id -->text
+WorkSpaceName --> text
+Logo --> file  
+LogoDisplayName-> text
+CountryName --> End point for countries (text)
+Address --> text
+WebSite -->text
+PhoneNumber -->text
+Email --text
+Field --> ?? array of strings
+NumberOfUsers --> enum --new end point
+ColorPalette --> enum

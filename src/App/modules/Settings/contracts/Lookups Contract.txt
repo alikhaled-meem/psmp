@@ -1,0 +1,39 @@
+Department :-
+{
+  "departmentName": {
+    "nameAr": "string",
+    "nameEn": "string"
+  },
+  "description": {
+    "nameAr": "string",
+    "nameEn": "string"
+  }
+}
+
+eventTypeName:-
+  "eventTypeName": {
+    "nameAr": "string",
+    "nameEn": "string"
+  },
+  "eventTypeDescription": {
+    "nameAr": "string",
+    "nameEn": "string"
+  },
+  "isActive": true
+
+}
+ImpactLevel:-
+{
+  "level": 0,
+  "levelName": {
+    "nameAr": "string",
+    "nameEn": "string"
+  },
+  "isShow": true,
+  "isActive": true
+}
+
+Tag:-
+{
+  "keyword": "string"
+}
