@@ -18,12 +18,6 @@ function createData(_id, RoleName, RoleDesc, RoleMembers) {
 
 const rows = [
   createData(
-    1,
-    "Administrative Role",
-    "Lorem Ipsum is simply dummy like Aldus PageMaker including versions of Lorem Ipsum.",
-    []
-  ),
-  createData(
     2,
     "Issuer",
     "Lorem Ipsum is simply dummy text of thewn printer tooo the leap ting pularised in thing Lorem Ipsum passages, and more Lorem Ipsum.",
